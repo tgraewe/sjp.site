@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sjp.site/static/css/main.e6c13ad2.css",
+    "main.js": "/sjp.site/static/js/main.7c22eb92.js",
+    "static/js/453.7a3706ce.chunk.js": "/sjp.site/static/js/453.7a3706ce.chunk.js",
+    "static/media/image4.png": "/sjp.site/static/media/image4.a83b846b82315be6099d.png",
+    "static/media/image1.png": "/sjp.site/static/media/image1.af7cff5d5d233164991f.png",
+    "static/media/image5.png": "/sjp.site/static/media/image5.1b05e8a2853ad143a08f.png",
+    "static/media/image2.png": "/sjp.site/static/media/image2.283f3f5499a7ca5ffd9d.png",
+    "static/media/image6.png": "/sjp.site/static/media/image6.0b5934f8171c1588b339.png",
+    "static/media/banner.png": "/sjp.site/static/media/banner.2fe5ff972d3bc30f0522.png",
+    "index.html": "/sjp.site/index.html",
+    "main.e6c13ad2.css.map": "/sjp.site/static/css/main.e6c13ad2.css.map",
+    "main.7c22eb92.js.map": "/sjp.site/static/js/main.7c22eb92.js.map",
+    "453.7a3706ce.chunk.js.map": "/sjp.site/static/js/453.7a3706ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7c22eb92.js"
+  ]
+}
